@@ -6,5 +6,8 @@ For now it contains a simple menu from where you can manage employees and their 
 
 Right now it's early version, and with time I'm going to implement new features, so look forward to new commits soon.
 
-
+Planned features:
+*Implementation of SpringSecurity and spliting app for menager/employee/admin interface
+*Add dates in schedule setting 
+*Add more employee's positions
 
